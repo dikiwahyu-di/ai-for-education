@@ -1,4 +1,3 @@
-:::writing{variant="document" id="73519"}
 # AI for Education
 
 ### Exploring Artificial Intelligence for Better Learning Experiences
@@ -57,4 +56,3 @@ This repository is a continuous journey of learning, experimentation, and innova
 **Author:** Diki Wahyudi  
 **Field:** Educational Technology  
 **Status:** Learning, Research & Development
-:::
